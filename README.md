@@ -97,4 +97,4 @@ This project also demonstrates my ability to work with data visualization tools,
 
 Screenshot/Demos
 
-Show what the dashboard looks like -![alt text](image.jpg)
+Show what the dashboard looks like -![alt text](https://github.com/harshkumar66/Big-Basket-Dashboard/blob/main/Big_Basket_Performance_Dashboard.png)
