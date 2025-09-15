@@ -8,7 +8,7 @@ The goal of this dashboard is to help stakeholders quickly identify trends, anal
 📊 **Dashboard Highlights**
 🔹 Key Metrics at a Glance
 
-Total Sales – ₹1.20M
+Total Sales – $1.20M
 
 Average Sales – $141
 
